@@ -1,0 +1,24 @@
+{
+  "short_name": "Avaasa Ledger",
+  "name": "Avaasa Ledger - Transparent Apartment Finance",
+  "description": "Premium full-stack transparent apartment and society financial management ledger.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%230F172A'/><path d='M60 140V100M96 140V70M132 140V50' stroke='%233B82F6' stroke-width='16' stroke-linecap='round'/><path d='M40 150H152' stroke='%2310B981' stroke-width='12' stroke-linecap='round'/></svg>",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='512' height='512' viewBox='0 0 512 512'><rect width='512' height='512' rx='104' fill='%230F172A'/><path d='M160 380V270M256 380V190M352 380V130' stroke='%233B82F6' stroke-width='40' stroke-linecap='round'/><path d='M110 410H402' stroke='%2310B981' stroke-width='32' stroke-linecap='round'/></svg>",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F172A",
+  "display": "standalone",
+  "orientation": "portrait"
+}
